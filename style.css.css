@@ -1,0 +1,52 @@
+body {
+    text-align: center; 
+    font-family: 'Roboto',sans-serif;
+    margin: 0;
+}
+
+.content-wrapper {
+    width: 570px;
+    padding: 100px;
+    text-align: center;
+}
+
+.header {
+
+
+    background-color: #D7D7D7;
+    padding :100px;
+    font-weight :900;
+
+}
+.about-me{
+    background-color: #ffeaea;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.article
+{
+    background-color: #EAF9FF;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+a {
+    color: #99D930; 
+    text-decoration: none;
+}
+a:hover{
+    color: #131313;
+}
+header div h1 {
+    font-weight: lighter;
+}
+section h2 {
+    font-weight: lighter;
+}
+p{
+    font-size: 21px;
+}
+p.small{
+    font-size: 16px;
+}
+
